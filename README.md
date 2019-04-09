@@ -58,5 +58,11 @@ Partindo do princípio que você já tem o mysql no `path` do sistema, em um ter
 3. PHP PDO/DAO Pattern
 4. Js/jQuery/Ajax Cep autocomplete
 
+### Doação
+Contribua para o projeto doando qualquer quantidade de **HTMLCOIN**  
+Carteira: **[HqgaiK6T1o2JP4p3p34CZp2g3XnSsSdCXp](htmlcoin:HqgaiK6T1o2JP4p3p34CZp2g3XnSsSdCXp?label=Doa%C3%A7%C3%B5es%20Github)**  
+  
+![Doar HTMLCoin](https://www.viniciusdesouza.com.br/img/htmlcoin.png)
+
 #### License
 MIT
